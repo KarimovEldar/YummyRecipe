@@ -1,4 +1,4 @@
-## ClickCart - Your Ultimate E-Commerce Shopping App
+## YummyRecipe
 ### Screenshots
 
 <table>
@@ -23,33 +23,17 @@
 
 ### Libraries and technologies used
 
-- **ROOM Database** - Efficiently manages local data storage.  
+- **ROOM Database** - Manages local data storage.  
 - **Dagger-Hilt (Dependency Injection)** - Simplifies dependency management.  
 - **Retrofit** - Handles network requests and API communication.  
 - **Offline Cache** - Supports app functionality without an internet connection.  
-- **Local & Remote Data Sources** - Implements a clean data architecture.  
-- **Kotlin & Coroutines** - Ensures smooth and non-blocking background processing.  
-- **Android Architecture Components** - Provides lifecycle-aware components.  
+- **Coroutines** - Runs background tasks without blocking the UI.  
 - **Navigation Component** - Manages seamless app navigation.  
 - **DataStore Preferences** - Replaces SharedPreferences for better data storage.  
 - **Data Binding** - Binds UI components to data sources efficiently.  
 - **ViewModel & AndroidViewModel** - Manages UI-related data lifecycle-aware.  
 - **LiveData & Flow** - Observes and reacts to data changes in real time.  
-- **DiffUtil & RecyclerView** - Optimizes list updates for a smooth UI.  
-- **Search RecyclerView** - Implements search functionality within lists.  
-- **REST API & Client-Server Communication** - Sends and processes HTTP requests/responses.  
-- **Dark & Light Theme (Night Mode)** - Enhances user experience with theme switching.  
-- **Motion Layout** - Adds smooth animations and transitions.  
-- **Material Components & Design** - Follows modern UI/UX guidelines.  
-- **Shimmer Effect** - Improves UI loading states.  
-- **Database Inspector** - Debugs and inspects local database efficiently.  
+- **DiffUtil & RecyclerView** - Optimizes list updates.    
+- **Motion Layout** - Adds smooth animations and transitions.    
 - **ViewPager & ViewPager2** - Enables swipe-based navigation.  
-- **Contextual Action Mode** - Provides advanced user interactions.  
-- **Share Data with Other Apps** - Implements content sharing functionality.  
-- **Modal Bottom Sheet** - Displays additional UI elements elegantly.  
-- **Nice Looking UI Design** - Ensures a modern and appealing user interface.  
-- **Migration from kotlin-android-extensions Plugin** - Uses View Binding/Data Binding for better performance.  
-s.  
-
-
-
+- **Dark & Light Theme (Night Mode)**.
