@@ -14,10 +14,6 @@
   </tr>
 </table>
 
-
-### Figma Design Link
-- **You can explore the Figma design for this project** [here](https://www.figma.com/file/ijaQwVIHjUr6wCnvEG63CO/ClickCart?type=design&node-id=0-1&mode=design&t=QWapesuzcXBi7Cbc-0).
-
 ### Demo Video
 - **Watch the demo video for this project** [here](https://player.vimeo.com/video/1059440863?h=11bc8bacec).
 
