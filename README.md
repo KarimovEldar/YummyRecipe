@@ -8,9 +8,9 @@
     <th>Details Screen</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/a20eb36b-03ef-4027-b566-6a5626777920" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/c9ef9eb2-65a5-4e8f-ac6c-3580cc154dc1" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/3890d27f-4bf4-4e0b-9d56-a0d6d5293850" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/61d4c1e6-9e2c-47d7-aaba-f2559571ce94" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/56415487-29b6-46ad-88fd-ce6f6c021217" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/97b4f57d-8eef-4c7b-988a-bebb47338bc7" width="250"></td>
   </tr>
 </table>
 
