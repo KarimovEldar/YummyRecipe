@@ -71,6 +71,7 @@ class DataStoreRepository @Inject constructor(
 
             val selectedDietType = preferences[PreferenceKeys.selectedDietType] ?: DEFAULT_DIET_TYPE
             val selectedDietTypeId = preferences[PreferenceKeys.selectedDietTypeId] ?: 0
+
             MealAndDietType(
                 selectedMealType,
                 selectedMealTypeId,
@@ -86,7 +87,7 @@ class DataStoreRepository @Inject constructor(
                 throw exception
             }
         }
-        .map {preferences->
+        .map { preferences->
             val backOnline = preferences[PreferenceKeys.backOnline] ?: false
             backOnline
         }

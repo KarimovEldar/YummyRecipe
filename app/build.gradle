@@ -9,7 +9,7 @@ plugins {
 
 android {
     namespace 'com.example.yummyrecipe'
-    compileSdk 33
+    compileSdk 34
 
     buildFeatures{
         viewBinding = true
@@ -19,7 +19,7 @@ android {
     defaultConfig {
         applicationId "com.example.yummyrecipe"
         minSdk 24
-        targetSdk 33
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
@@ -47,10 +47,12 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'com.google.android.material:material:1.5.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.7.2'
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
-//Splash Screen
+
+    //Splash Screen
     implementation 'androidx.core:core-splashscreen:1.0.0-beta02'
 
     //Navigation Component
@@ -63,13 +65,13 @@ dependencies {
     implementation 'androidx.room:room-ktx:2.5.2'
     androidTestImplementation 'androidx.room:room-testing:2.5.2'
 
-//    //Lifecycle components
+    //Lifecycle components
     implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
     implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1'
     implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.6.1"
     implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.6.1"
 
-//    //Coroutine
+    //Coroutine
     implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22'
     api "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.1"
     api "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1"
