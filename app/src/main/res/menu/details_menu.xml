@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_save_favorite"
+        android:icon="@drawable/ic_heart_fill"
+        android:title="@string/save_favorite"
+        app:showAsAction="ifRoom"
+        app:iconTint="@color/white"
+        tools:targetApi="o" />
+</menu>

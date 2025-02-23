@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">RecipePin</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="favorite">Favorite</string>
+
+    <string name="title">Title</string>
+    <string name="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
+
+    <string name="back_online">Welcome back</string>
+    <string name="no_internet_connection">No internet connection!</string>
+
+    <string name="search">Search</string>
+    <string name="delete_all">Delete All</string>
+    <string name="no_favorite_data">You haven\'t added any favorites yet!</string>
+    <string name="save_favorite">Save to Favorites</string>
+
+    <string name="recipes">Recipes</string>
+    <string name="cheap">Cheap</string>
+    <string name="healthy">Healthy</string>
+    <string name="dairy_free">Dairy Free</string>
+    <string name="original">Original</string>
+    <string name="consistency">Consistency</string>
+    <string name="grams">Grams</string>
+    <string name="name">Name</string>
+
+    // Bottom Sheet
+    <string name="meal_type">Meal Type</string>
+    <string name="main_course">Main Course</string>
+    <string name="side_dish">Side Dish</string>
+    <string name="dessert">Dessert</string>
+    <string name="appetizer">Appetizer</string>
+    <string name="salad">Salad</string>
+    <string name="bread">Bread</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="soup">Soup</string>
+    <string name="beverage">Beverage</string>
+    <string name="sauce">Sauce</string>
+    <string name="marinade">Marinade</string>
+    <string name="fingerfood">FingerFood</string>
+    <string name="snack">Snack</string>
+    <string name="drink">Drink</string>
+    <string name="gluten_free">Gluten Free</string>
+    <string name="ketogenic">Ketogenic</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="vegan">Vegan</string>
+    <string name="pescetarian">Pescetarian</string>
+    <string name="paleo">Paleo</string>
+    <string name="primal">Primal</string>
+    <string name="whole30">Whole30</string>
+    <string name="diet_type">Diet Type</string>
+    <string name="apply">Apply</string>
+    <string name="bottom_sheet">Bottom Sheet</string>
+    <string name="details">Details</string>
+
+</resources>
