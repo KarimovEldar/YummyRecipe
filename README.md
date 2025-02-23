@@ -19,8 +19,8 @@
 - **You can explore the Figma design for this project** [here](https://www.figma.com/file/ijaQwVIHjUr6wCnvEG63CO/ClickCart?type=design&node-id=0-1&mode=design&t=QWapesuzcXBi7Cbc-0).
 
 ### Demo Video
-- **Watch the demo video for this project** [here](https://player.vimeo.com/progressive_redirect/playback/882452549/rendition/720p/file.mp4?loc=external&signature=63908df93db536fdb7ece444551033d73ce401da6bac95b70bd413fc44ec58fc).
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1059440863?h=11bc8bacec" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+- **Watch the demo video for this project** [here](https://player.vimeo.com/video/1059440863?h=11bc8bacec).
+
 ### Libraries and technologies used
 
 - **Navigation Component** - Manages navigation with one activity and multiple fragments.  
